@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zBWXRa4SSXWBhlKF3aj+szjgTkHdBKVz+OaQFb2rOuU=",
+  "Source": "VantagensAPI",
+  "BasePath": "_content/VantagensAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
